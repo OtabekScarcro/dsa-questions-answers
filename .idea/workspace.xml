@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a14a4d-52b6-4184-b474-351bbf6a8043" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElementThatAppearsOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Frequencies_of_Limited_Range_Array_Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestSubarrayWithSumK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxSubArrWithOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Top_K_frequent_elements_in_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rotateToLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BestTimeToSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NextPermutaion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repeating_Missing_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetMatrixZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingMapValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,37 +59,37 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LongestSubarrayWithSumK">
-    <configuration name="ElementThatAppearsOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElementThatAppearsOnce" />
+  <component name="RunManager" selected="Application.Repeating_Missing_number">
+    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeTwoSortedArray" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubarrayWithSumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestSubarrayWithSumK" />
+    <configuration name="NextPermutaion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NextPermutaion" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubArrWithOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxSubArrWithOnes" />
+    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PascalsTriangle" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Top_K_frequent_elements_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Top_K_frequent_elements_in_array" />
+    <configuration name="Repeating_Missing_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Repeating_Missing_number" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rotateToLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rotateToLeft" />
+    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotateMatrix" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestSubarrayWithSumK" />
-        <item itemvalue="Application.ElementThatAppearsOnce" />
-        <item itemvalue="Application.MaxSubArrWithOnes" />
-        <item itemvalue="Application.rotateToLeft" />
-        <item itemvalue="Application.Top_K_frequent_elements_in_array" />
+        <item itemvalue="Application.Repeating_Missing_number" />
+        <item itemvalue="Application.MergeTwoSortedArray" />
+        <item itemvalue="Application.RotateMatrix" />
+        <item itemvalue="Application.NextPermutaion" />
+        <item itemvalue="Application.PascalsTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -115,5 +115,15 @@
       <updated>1680273013970</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

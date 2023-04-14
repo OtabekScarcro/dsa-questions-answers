@@ -1,45 +1,21 @@
-
-
-class pair{
-    long first, second;
-    public pair(long first, long second)
-    {
-        this.first = first;
-        this.second = second;
-    }
-}
+import java.util.HashMap;
 
 public class TwoSum {
     public static void main(String[] args) {
-        int A[] = {1, 2, 4, 5, 7};
-        int B[] = {5, 6, 3, 4, 8};
-        pair[] pairs = allPairs(A, B, A.length, B.length, 9);
-
+        int[] arr = {2,7,11,15};
+        twoSum(arr, 9);
     }
 
-    private static pair[] allPairs(int[] A, int[] B, int N, int M, int X) {
-        pair[] pairs = new pair[10];
-        for(int i=0;i<N;i++){
-            for(int )
+    private static void twoSum(int[] arr, int target) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for (int i=0;i<arr.length;i++){
+            if(map.containsKey(target-arr[i])){
+                int[] result = {map.get(target-arr[i]), i};
+            }
+            else{
+                map.put(arr[i], i);
+            }
         }
-        return pairs;
+
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
