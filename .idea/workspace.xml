@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a14a4d-52b6-4184-b474-351bbf6a8043" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BestTimeToSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeTwoSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NextPermutaion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repeating_Missing_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetMatrixZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingMapValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchIn2DMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,37 +53,37 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Repeating_Missing_number">
-    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeTwoSortedArray" />
+  <component name="RunManager" selected="Application.LongestSubstring">
+    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestConsecutiveSequence" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextPermutaion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NextPermutaion" />
+    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSubstring" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PascalsTriangle" />
+    <configuration name="Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pow" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Repeating_Missing_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Repeating_Missing_number" />
+    <configuration name="ReversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReversePairs" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateMatrix" />
+    <configuration name="SearchIn2DMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchIn2DMatrix" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Repeating_Missing_number" />
-        <item itemvalue="Application.MergeTwoSortedArray" />
-        <item itemvalue="Application.RotateMatrix" />
-        <item itemvalue="Application.NextPermutaion" />
-        <item itemvalue="Application.PascalsTriangle" />
+        <item itemvalue="Application.LongestSubstring" />
+        <item itemvalue="Application.LongestConsecutiveSequence" />
+        <item itemvalue="Application.ReversePairs" />
+        <item itemvalue="Application.Pow" />
+        <item itemvalue="Application.SearchIn2DMatrix" />
       </list>
     </recent_temporary>
   </component>
